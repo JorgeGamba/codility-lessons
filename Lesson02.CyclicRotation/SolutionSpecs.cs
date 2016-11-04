@@ -10,7 +10,7 @@ namespace Lesson02.CyclicRotation
 
         public class When_the_array_is_empty
         {
-            private Establish context = () =>
+            Establish context = () =>
             {
                 _array = new int[0];
                 _rotation = _anyRotation;
