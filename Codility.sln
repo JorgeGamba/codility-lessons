@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson04.PermCheck", "Lesso
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson04.FrogRiverOne", "Lesson04.FrogRiverOne\Lesson04.FrogRiverOne.csproj", "{C620BAC8-01CA-44A6-B400-3EEA82DF3E4D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson04.MissingInteger", "Lesson04.MissingInteger\Lesson04.MissingInteger.csproj", "{6D383E81-E5A3-4679-A830-DBB3AC54A741}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{C620BAC8-01CA-44A6-B400-3EEA82DF3E4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C620BAC8-01CA-44A6-B400-3EEA82DF3E4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C620BAC8-01CA-44A6-B400-3EEA82DF3E4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D383E81-E5A3-4679-A830-DBB3AC54A741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D383E81-E5A3-4679-A830-DBB3AC54A741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D383E81-E5A3-4679-A830-DBB3AC54A741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D383E81-E5A3-4679-A830-DBB3AC54A741}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
