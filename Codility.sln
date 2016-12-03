@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson03.FrogJmp", "Lesson0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson03.PermMissingElem", "Lesson03.PermMissingElem\Lesson03.PermMissingElem.csproj", "{DD6B8C23-80EE-4FB6-9026-03641D0EF054}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson04.PermCheck", "Lesson04.PermCheck\Lesson04.PermCheck.csproj", "{869644AF-9BE8-4C24-B634-FF61BD0A735B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{DD6B8C23-80EE-4FB6-9026-03641D0EF054}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD6B8C23-80EE-4FB6-9026-03641D0EF054}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD6B8C23-80EE-4FB6-9026-03641D0EF054}.Release|Any CPU.Build.0 = Release|Any CPU
+		{869644AF-9BE8-4C24-B634-FF61BD0A735B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{869644AF-9BE8-4C24-B634-FF61BD0A735B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{869644AF-9BE8-4C24-B634-FF61BD0A735B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{869644AF-9BE8-4C24-B634-FF61BD0A735B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
