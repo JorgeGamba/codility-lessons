@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson05.PassingCars", "Les
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson05.MinAvgTwoSlice", "Lesson05.MinAvgTwoSlice\Lesson05.MinAvgTwoSlice.csproj", "{286DFC55-A519-434B-B0A0-D54E89438DF2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson05.GenomicRangeQuery", "Lesson05.GenomicRangeQuery\Lesson05.GenomicRangeQuery.csproj", "{3CFB44DC-F911-4838-8FE8-E4E06B20F334}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{286DFC55-A519-434B-B0A0-D54E89438DF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{286DFC55-A519-434B-B0A0-D54E89438DF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{286DFC55-A519-434B-B0A0-D54E89438DF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CFB44DC-F911-4838-8FE8-E4E06B20F334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CFB44DC-F911-4838-8FE8-E4E06B20F334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CFB44DC-F911-4838-8FE8-E4E06B20F334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CFB44DC-F911-4838-8FE8-E4E06B20F334}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
